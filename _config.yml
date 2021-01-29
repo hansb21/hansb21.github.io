@@ -1,5 +1,5 @@
 # Setup
-title: Computadores e Téoria
+title: Computadores e Teoria
 url: hansb21.github.io
 paginate: 1
 baseurl: ""
@@ -27,9 +27,6 @@ sass:
 
 # Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
-
 # Specify the author for blog posts
 author:
   name: Hans Buss
@@ -44,5 +41,5 @@ nav:
   - title: Blog
     url: /archive
 
-  - title: About
+  - title: Sobre
     url: /about
