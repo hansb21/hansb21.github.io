@@ -46,3 +46,7 @@ nav:
     
   - title: Receitas
     url: /recipes
+
+collections:
+  recipes:
+      output: true
