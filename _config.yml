@@ -43,3 +43,6 @@ nav:
 
   - title: Sobre
     url: /about
+    
+  - title: Receitas
+    url: /recipes
