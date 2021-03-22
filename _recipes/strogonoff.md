@@ -16,7 +16,7 @@ title: Strogonoff
 - 3 colheres de manteiga
 - 1 colher de azeite
 
-1. Picle o alho em cubinhos e a proteina em tiras
+1. Pique o alho em cubinhos e a proteina em tiras
 2. Misture ambos com sal e reserve 30min
 3. Esquente a manteiga e o azeite juntos em uma panela
 4. Frite a proteina em sessões e vá colocando em um recipiente a parte
